@@ -1,6 +1,6 @@
-django_backend/db.sqlite3
+db.sqlite3
 stock_trading_bot/venv
 stock_trading_bot/.idea
 stock_trading_bot/logs
-stock_trading_bot/*/__pycache__
+stock_trading_bot/__pycache__
 stock_trading_bot/*/migrations
