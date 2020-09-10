@@ -1,4 +1,0 @@
-61.39.91.77 - - [06/Sep/2020:19:37:05 +0900] "GET / HTTP/1.1" 200 96 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36"
-61.39.91.77 - - [06/Sep/2020:19:37:06 +0900] "GET /favicon.ico HTTP/1.1" 404 188 "http://218.145.110.135:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36"
-61.39.91.77 - - [06/Sep/2020:19:37:51 +0900] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36"
-61.39.91.77 - - [06/Sep/2020:19:39:25 +0900] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36"
