@@ -1,8 +1,6 @@
-.gitignore
 db.sqlite3
 stock_trading_bot/venv
 stock_trading_bot/.idea
-stock_trading_bot/logs
 */__pycache__/*
 stock_trading_bot/*/migrations
 *.pyc
