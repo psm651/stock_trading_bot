@@ -11,6 +11,7 @@
 - REST API
 - api 명세에 따른 url작성
 - MTV패턴 적용
+- aws, docker
 
 
 #주요 기능
