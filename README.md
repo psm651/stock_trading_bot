@@ -17,7 +17,7 @@ apache, python, flask
 - 클린코드 도서 기반 작성
 - REST API
 - api 명세에 따른 url작성
-- MTV패턴 적용
+- MTV패턴 적용asdfasfd
 - aws, docker
 
 
